@@ -1,2 +1,4 @@
 # cs173_finalproject
-Final project for CS173 Natural Language Processing at UCR
+My group's final project for CS173 Natural Language Processing at UCR.
+Classifies reviews as positive or negative.
+To run: python classifier.py
